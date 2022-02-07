@@ -3,8 +3,8 @@ How create forms on visual studio whit .net 6
 
 
 ### Get started
-    - Visual studio code
-    - .net 6 (C#)
+- Visual studio code
+- .net 6 (C#)
     
     
 ### Instructions
