@@ -8,7 +8,7 @@ How create forms on visual studio whit .net 6
     
     
 ### Instructions
-    - Create new folder and create project
+- Create new folder and create project
     
     '''
         dotnet new winforms --name hellowin
