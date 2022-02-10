@@ -1,0 +1,15 @@
+C:\Users\catg_\Desktop\New folder\hellowin\bin\Debug\net6.0-windows\hellowin.exe
+C:\Users\catg_\Desktop\New folder\hellowin\bin\Debug\net6.0-windows\hellowin.deps.json
+C:\Users\catg_\Desktop\New folder\hellowin\bin\Debug\net6.0-windows\hellowin.runtimeconfig.json
+C:\Users\catg_\Desktop\New folder\hellowin\bin\Debug\net6.0-windows\hellowin.dll
+C:\Users\catg_\Desktop\New folder\hellowin\bin\Debug\net6.0-windows\ref\hellowin.dll
+C:\Users\catg_\Desktop\New folder\hellowin\bin\Debug\net6.0-windows\hellowin.pdb
+C:\Users\catg_\Desktop\New folder\hellowin\obj\Debug\net6.0-windows\hellowin.csproj.AssemblyReference.cache
+C:\Users\catg_\Desktop\New folder\hellowin\obj\Debug\net6.0-windows\hellowin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\catg_\Desktop\New folder\hellowin\obj\Debug\net6.0-windows\hellowin.AssemblyInfoInputs.cache
+C:\Users\catg_\Desktop\New folder\hellowin\obj\Debug\net6.0-windows\hellowin.AssemblyInfo.cs
+C:\Users\catg_\Desktop\New folder\hellowin\obj\Debug\net6.0-windows\hellowin.csproj.CoreCompileInputs.cache
+C:\Users\catg_\Desktop\New folder\hellowin\obj\Debug\net6.0-windows\hellowin.dll
+C:\Users\catg_\Desktop\New folder\hellowin\obj\Debug\net6.0-windows\ref\hellowin.dll
+C:\Users\catg_\Desktop\New folder\hellowin\obj\Debug\net6.0-windows\hellowin.pdb
+C:\Users\catg_\Desktop\New folder\hellowin\obj\Debug\net6.0-windows\hellowin.genruntimeconfig.cache
